@@ -18,7 +18,7 @@ This guide focuses on a 4-6 week preparation window, emphasizing core architectu
 * **Focus:** Reliability, Security, and Cost Optimization.
 
 ### Phase 3: Practice & Refinement (Weeks 5-6)
-* **Primary Resource:** [Tutorials Dojo Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
+* **Primary Resource:** [Stephane Maarek Udemy Tests](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate/) [Tutorials Dojo Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
 * **Action:** Take full-length exams in "Timed Mode." 
 * **Focus:** Understanding "why" the correct answer is right and "why" the others are wrong.
 
@@ -28,7 +28,7 @@ This guide focuses on a 4-6 week preparation window, emphasizing core architectu
 
 ### Learning Platforms
 * **Course:** [Stephane Maarek (Udemy)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
-* **Practice Exams (Highly Recommended):** [Tutorials Dojo](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
+* **Practice Exams (Highly Recommended):** [Stephane Maarek Udemy Tests](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate/) OR [Tutorials Dojo](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
 
 ### Practice Questions & Dumps
 * [Free-Braindumps SAA-C03](https://free-braindumps.com/amazon/free-saa-c03-braindumps)
